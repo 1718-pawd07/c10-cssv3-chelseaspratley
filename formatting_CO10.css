@@ -1,0 +1,41 @@
+
+/*
+* Chelsea Spratley
+* 3/27/18
+* CO4
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+   	background-color: #bee3f7;
+    color: navy blue;
+    font-family: "Arial";
+}
+
+h1 {
+	background-color: #bee3f7;
+    text-align: center;
+    font-size: 30pt;
+    text-decoration: overline underline;
+}
+	h1,h2,h3,h4,h5,h6 {
+	background-color: #f7ead4;
+	color: rgb(247, 187, 227);
+}
+
+p{
+	background-color: rgb(198, 250, 255);
+	color: #c9b0e8;
+}
+
+img {
+    float: left;
+}
